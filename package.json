@@ -1,0 +1,16 @@
+{
+  "name": "babel-preset-env-async-destructuring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-env": "^1.1.4",
+    "babel-cli": "^6.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "babel-node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
